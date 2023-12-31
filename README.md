@@ -1,9 +1,25 @@
 # **DeepLearning-Interview-Awesome-2024**　![Language](https://img.shields.io/badge/language-Jupyter-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/深度学习-感知算法-pink.svg)
 
 
-本项目涵盖了**大模型(LLMs)专题**、**计算机视觉与感知算法专题**、**深度学习基础与框架专题**、**自动驾驶、智慧医疗等行业垂域专题**、**手撕项目代码专题**、**优异开源资源推荐专题**共计6大专题模块。我们将持续整理汇总最新的面试题并详细解析这些题目，希望能成为大家斩获offer路上一份有效的辅助资料。
+本项目涵盖了**大模型(LLMs)专题**、**计算机视觉与感知算法专题**、**自然语言专题**、**深度学习基础与框架专题**、**自动驾驶、智慧医疗等行业垂域专题**、**手撕项目代码专题**、**优异开源资源推荐专题**等多个专题模块。
 
-2024算法面试题目持续更新，具体请 follow [2024年深度学习算法与大模型面试指南](https://github.com/315386775/DeepLearing-Interview-Awesome-2024)，喜欢本项目的请右上角点个star，同时也欢迎大家一起共创该项目。
+我们将持续整理汇总最新的面试题并详细解析这些题目，希望能成为大家斩获offer路上一份有效的辅助资料。更多专业、热门、常考的技术资料，在下面我们的星球上。
+
+2024算法面试题目持续更新，喜欢本项目的请右上角点个star，同时也欢迎大家一起共创该项目。
+
+#### 微信公众号：机器学习社区
+
+一个专注于分享大模型、算法、学术论文、面试与实践的公众号，关注公众号：机器学习社区，与我们一起成长。
+
+![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/qrcode_for_gh_20ad92029419_258.jpg)
+
+### 知识星球
+
+前沿技术资讯、算法技术交流、求职内推、算法竞赛、职场面试经验交流(校招、社招、实习)等，与 10000+来自港大、北大、清华、中科院、CMU、腾讯、百度、微软等名校名企开发者互动交流~
+
+![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/AI%E7%AE%97%E6%B3%95%E4%BA%A4%E6%B5%81%E5%9C%88.jpg)
+
+
 
 该项目是持续更新：
 
